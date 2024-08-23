@@ -82,4 +82,4 @@ The E-commerce API will raise errors with accompanying messages under the follow
 
 #
 
-View the E-commerce API [GitHub Repository](https://github.com/JaycobHoffman1/mini-project-e-commerce-api)
+View the E-commerce API [GitHub Repository](https://github.com/JaycobHoffman1/e-commerce-api)
