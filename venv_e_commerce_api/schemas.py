@@ -1,4 +1,4 @@
-from __init__ import ma
+from config import ma
 from marshmallow import fields
 
 class CustomerSchema(ma.Schema):

@@ -1,4 +1,4 @@
-from __init__ import db, app
+from config import db, app
 from datetime import date, timedelta
 
 class Customer(db.Model):

@@ -1,4 +1,4 @@
-from __init__ import app, db
+from config import app, db
 from flask import jsonify, request
 from marshmallow import ValidationError
 from models import Customer, CustomerAccount, Product, Order
